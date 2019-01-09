@@ -1,6 +1,7 @@
 # 湖南文理学院ACM编程助手
 
 基于Flutter开发的跨平台小应用.
+![启动图](/screenshots/app_launcher.jpg)
 
 ------
 
