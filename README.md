@@ -1,7 +1,7 @@
 # 湖南文理学院ACM编程助手
 
 基于Flutter开发的跨平台小应用.
-![启动图](/screenshots/app_launcher.jpg)
+![启动图](/screenshots/app_launcher.jpg)![启动图](/screenshots/app_index.jpg)
 
 ------
 
@@ -13,7 +13,7 @@
 - [x] 项目立项，设置应用图标和启动页
 - [ ] 题目内容查询
 - [ ] 题目评测状态查询
-- [ ] 比赛列表查询
+- [x] 比赛列表查询(网络版本已完成，校内版本TODO)
 - [ ] 登录
 - [ ] 注册
 - [ ] 个人中心
